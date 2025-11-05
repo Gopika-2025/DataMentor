@@ -1,0 +1,7 @@
+{
+  "column": "sentiment",
+  "min": 0.0,
+  "max": 1.0,
+  "n_total": 50000,
+  "n_within": null
+}

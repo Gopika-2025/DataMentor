@@ -1,0 +1,1 @@
+# Text trainer CLI 

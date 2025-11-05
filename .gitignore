@@ -1,0 +1,17 @@
+# Git ignore file 
+# Virtual environment
+datamentor_venv/
+# Streamlit cache
+.streamlit/
+# Python cache
+__pycache__/
+*.pyc
+# Large data files
+data/processed/
+# Model weights
+*.pkl
+*.h5
+*.zip
+# System files
+.DS_Store
+Thumbs.db

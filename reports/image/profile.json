@@ -1,0 +1,60 @@
+{
+  "dataset_type": "folder",
+  "root": "D:\\project\\DataMentor\\data\\raw\\portfolio-main",
+  "n_images": 5,
+  "n_classes": 1,
+  "class_counts_top20": {
+    "portfolio-main": 5
+  },
+  "small_classes_lt10": [
+    "portfolio-main"
+  ],
+  "integrity_and_meta": {
+    "sample_size": 5,
+    "readable_images": 5,
+    "corrupt_in_sample": 0,
+    "corrupt_in_sample_pct": 0.0,
+    "very_small_lt_32x32_in_sample": 0,
+    "width_stats": {
+      "count": 5.0,
+      "mean": 1199.2,
+      "std": 892.5929419393814,
+      "min": 180.0,
+      "p50": 1024.0,
+      "p90": 2272.0,
+      "p99": 2525.8,
+      "max": 2554.0
+    },
+    "height_stats": {
+      "count": 5.0,
+      "mean": 990.4,
+      "std": 1070.560712897685,
+      "min": 124.0,
+      "p50": 593.0,
+      "p90": 2228.2000000000003,
+      "p99": 2950.72,
+      "max": 3031.0
+    },
+    "aspect_ratio_stats": {
+      "count": 5.0,
+      "mean": 1.8195533630050271,
+      "std": 1.0695532049536136,
+      "min": 0.8426261959749257,
+      "p50": 1.0,
+      "p90": 3.1294756024587937,
+      "p99": 3.136334657020073,
+      "max": 3.1370967741935485
+    },
+    "mode_counts_top": {
+      "RGBA": 3,
+      "RGB": 2
+    },
+    "sample_paths": [
+      "portfolio-main\\PASPORT_SIZE_PHOTO.png",
+      "portfolio-main\\images\\christ_logo_color.png",
+      "portfolio-main\\images\\christ_logo_color_circular.png",
+      "portfolio-main\\images\\CHRIST_WHITE.png",
+      "portfolio-main\\images\\Profile.jpg"
+    ]
+  }
+}
